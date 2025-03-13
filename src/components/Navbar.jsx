@@ -23,7 +23,7 @@ const Navbar = () => {
       </div>
 
       {/* Кнопки корзины и профиля */}
-      <div className="flex items-center gap-4">
+      <div className="pl-5 flex items-center gap-2">
         <button className="p-2 bg-white text-black rounded-full text-[14px]">
           <ShoppingCart />
         </button>
